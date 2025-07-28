@@ -44,7 +44,6 @@
   <!-- Other -->
   <img src="https://img.shields.io/badge/Agile-Project%20Mgmt-blue?style=flat-square" height="25" alt="Agile" />
   <img src="https://img.shields.io/badge/EJS-Embedded%20JS-yellow?style=flat-square" height="25" alt="EJS" />
-  <img src="https://img.shields.io/badge/JSON-Data-lightgrey?style=flat-square" height="25" alt="JSON" />
   <img src="https://img.shields.io/badge/REST%20APIs-Backend-green?style=flat-square" height="25" alt="REST APIs" />
 </p>
 
