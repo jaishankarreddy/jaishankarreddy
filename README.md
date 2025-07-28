@@ -12,7 +12,8 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?jaishankarreddy=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaishankarreddy&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
