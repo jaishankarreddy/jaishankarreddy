@@ -12,7 +12,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?jaishankarreddy=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -36,14 +36,13 @@
 
 | GitHub Stats | Streak |
 |--------------|--------|
-| ![Jaishankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical) |
+| ![Jaishankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaishankarreddy&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaishankarreddy&theme=radical) |
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaishankar-reddy-9a65ab314/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ooow.onrender.com/)
 
 
