@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaishankar Reddy V</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Passionate Tech Explorer</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Passionate Tech Explorer from India </h3>
 
 - 🌱 Currently undergoing **MERN Stack training**
 - 🔍 Exploring **Angular** as part of my frontend skillset
 - 👯 Looking to collaborate on **MERN stack projects** and general **web development**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 Reach me at **jaishankarreddyv@gmail.com**
-- 🌐 Portfolio: [jaishankar.dev](https://your-portfolio.vercel.app)
+- 📫 Reach me at **jaishankar63663@gmail.com**
+- 🌐 Portfolio: [jaishankar.dev](https://portfolio-ooow.onrender.com/)
 
 ---
 
