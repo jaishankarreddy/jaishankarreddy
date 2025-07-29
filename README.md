@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaishankar Reddy V</h1>
-<h3 align="center">🚀 MERN Stack Developer | Open to Front-End & Full-Stack Roles | Passionate Tech Explorer from India</h3>
+<h3 align="center">🚀 MERN Stack Developer | Open to Front-End & Full-Stack Roles </h3>
 
 - ✅ I’ve completed **MERN Stack training**
 - 🌱 Currently learning **Angular**
