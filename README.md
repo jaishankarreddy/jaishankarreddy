@@ -2,8 +2,8 @@
 <h3 align="center">🚀 MERN Stack, Angular Developer | Open to Front-End & Full-Stack Roles </h3>
 
 - ✅ I’ve completed **MERN Stack training**
-- 🌱 Currently learning **Angular**
-- 🔍 Actively **seeking opportunities** in **MERN stack** and **Front-End Development**
+- 🌱 Currently learning **Java Spring Boot**
+- 🔍 Actively **seeking opportunities** in **MERN stack**, **Angular** and **Front-End Development**
 - 👯 Looking to collaborate on **web development projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, REST APIs**
 - 📫 Reach me at **jaishankar63663@gmail.com**
